@@ -29,7 +29,7 @@ I'd love to collaborate on new things! Feel free to reach out!
 
 ### Some other things i've built
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" align="middle" height=20/><img src="https://img.shields.io/badge/Raylib-FFFFFF?style=for-the-badge&logo=raylib&logoColor=000000" align="middle" height=20/><br>
-**[Chippy](https://github.com/you/project-three)** &nbsp;·&nbsp; Chippy is an emulator for the CHIP-8 specification written in Rust with a full implementation of the CHIP-8 instruction set, optional WAV audio, and a frontend built on top of the [Raylib](https://www.raylib.com/) graphics library.
+**[Chippy](https://github.com/trainrechs/chippy)** &nbsp;·&nbsp; Chippy is an emulator for the CHIP-8 specification written in Rust with a full implementation of the CHIP-8 instruction set, optional WAV audio, and a frontend built on top of the [Raylib](https://www.raylib.com/) graphics library.
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" align="middle" height=20/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" align="middle" height=20/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" align="middle" height=20/></br>
 **[FRC Programming Guide](https://github.com/MontclairRobotics/FRC-Programming-Guide)** &nbsp;·&nbsp; A comprehensive guide to FRC programming that introduces Java, WPILib, robot architecture, and programming best practices through clear explanations and practical examples.
