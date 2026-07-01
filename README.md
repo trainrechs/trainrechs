@@ -17,7 +17,7 @@ I'd love to collaborate on new things! Feel free to reach out!
     <td width="50%">
       <h3><a href="https://github.com/MontclairRobotics/Crescendo">FRC 555 2024 Robot</a></h3>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"><img src="https://img.shields.io/badge/WPILib-0055A4?style=for-the-badge" alt="WPILib">
-      <p>Team 555's 2024 FRC season codebase, featuring a configurable autonomous generator that stitches predefined holonomic paths at runtime into novel autonomous routines. It also includes an automatic climbing sequence as well as some awesome googly eyes.</p>
+      <p>Team 555's 2024 FRC season codebase, featuring a configurable autonomous generator that stitches predefined Bézier paths at runtime into novel autonomous routines. It also includes an automatic climbing sequence as well as some awesome googly eyes.</p>
     <p>
         <a href="https://www.youtube.com/watch?v=SQcNVM3vK0g">▶️ Watch our Behind The Bumpers Interview!</a>
       </p>
