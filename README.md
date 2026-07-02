@@ -3,7 +3,7 @@
 I love building things - Mostly emulators, operating systems, and robots.
 
 I'd love to collaborate on new things! Feel free to reach out!
-## 🚀Biggest Projects
+## Biggest Projects
 <table>
   <tr>
     <td width="50%">
