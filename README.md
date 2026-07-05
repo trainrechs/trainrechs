@@ -33,7 +33,7 @@ I'd love to collaborate on new things! Feel free to reach out!
 **[Starling](https://github.com/trainrechs/starling)** &nbsp;·&nbsp; Starling is a real-time, [interactively tunable](https://trainrechs.github.io/starling/) boids flocking simulation built with TypeScript, visualizing emergent flock behavior from simple rules based on a [1987 whitepaper](https://www.cs.toronto.edu/~dt/siggraph97-course/cwr87/).
 
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" align="middle" height=20/><img src="https://img.shields.io/badge/Raylib-FFFFFF?style=for-the-badge&logo=raylib&logoColor=000000" align="middle" height=20/><br>
-**[Chippy](https://github.com/trainrechs/chippy)** &nbsp;·&nbsp; Chippy is an emulator for the CHIP-8 specification written in Rust with a full implementation of the CHIP-8 instruction set, optional WAV audio, and a frontend built on top of the [Raylib](https://www.raylib.com/) graphics library.
+**[Chippy](https://github.com/trainrechs/chippy)** &nbsp;·&nbsp; Chippy is a fast, modern CHIP-8 emulator with WAV audio support and a Raylib-powered frontend.
 
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" align="middle" height=20/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" align="middle" height=20/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" align="middle" height=20/></br>
